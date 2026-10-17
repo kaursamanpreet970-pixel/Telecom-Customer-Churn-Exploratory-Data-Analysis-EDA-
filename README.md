@@ -204,7 +204,7 @@ Of 7,043 customers, **1,869 churned and 5,174 stayed**, a churn rate of **26.54%
 
 ![Churn count](https://github.com/kaursamanpreet970-pixel/Telecom-Customer-Churn-Exploratory-Data-Analysis-EDA-/blob/main/01_churn_count.png)
 
-![Churn rate pie chart](Telecom-Customer-Churn-Exploratory-Data-Analysis-EDA-/blob/main/02_churn_pie.png)
+![Churn rate pie chart](https://github.com/kaursamanpreet970-pixel/Telecom-Customer-Churn-Exploratory-Data-Analysis-EDA-/blob/main/02_churn_pie.png)
 
 ---
 
@@ -212,7 +212,7 @@ Of 7,043 customers, **1,869 churned and 5,174 stayed**, a churn rate of **26.54%
 
 Female (939) and male (930) churn counts are almost identical, at roughly 27% vs 26%. **Gender is not a meaningful factor.**
 
-![Churn by gender](Telecom-Customer-Churn-Exploratory-Data-Analysis-EDA-/blob/main/03_churn_by_gender.png)
+![Churn by gender](https://github.com/kaursamanpreet970-pixel/Telecom-Customer-Churn-Exploratory-Data-Analysis-EDA-/blob/main/03_churn_by_gender.png)
 
 ---
 
@@ -220,9 +220,9 @@ Female (939) and male (930) churn counts are almost identical, at roughly 27% vs
 
 Senior citizens are a smaller group, so raw counts hide the problem. The percentage chart shows it clearly: **41.7% of senior citizens churn, compared with 23.6% of non-seniors.**
 
-![Senior citizen churn count](Telecom-Customer-Churn-Exploratory-Data-Analysis-EDA-/blob/main/04_senior_citizen_count.png)
+![Senior citizen churn count](https://github.com/kaursamanpreet970-pixel/Telecom-Customer-Churn-Exploratory-Data-Analysis-EDA-/blob/main/04_senior_citizen_count.png)
 
-![Senior citizen churn percentage](Telecom-Customer-Churn-Exploratory-Data-Analysis-EDA-/blob/main/05_senior_citizen_percent.png)
+![Senior citizen churn percentage](https://github.com/kaursamanpreet970-pixel/Telecom-Customer-Churn-Exploratory-Data-Analysis-EDA-/blob/main/05_senior_citizen_percent.png)
 
 ---
 
@@ -230,7 +230,7 @@ Senior citizens are a smaller group, so raw counts hide the problem. The percent
 
 Churn is heavily concentrated in the **first few months**, with the biggest churn spike at **month 1**. It falls steadily as tenure grows. Customers who stay long term, especially near 72 months, rarely leave. **The early months are the critical retention window.**
 
-![Churn by tenure](Telecom-Customer-Churn-Exploratory-Data-Analysis-EDA-/blob/main/06_churn_by_tenure.png)
+![Churn by tenure](https://github.com/kaursamanpreet970-pixel/Telecom-Customer-Churn-Exploratory-Data-Analysis-EDA-/blob/main/06_churn_by_tenure.png)
 
 ---
 
@@ -244,7 +244,7 @@ Churn is heavily concentrated in the **first few months**, with the biggest chur
 
 Longer commitments clearly improve retention.
 
-![Churn by contract](Telecom-Customer-Churn-Exploratory-Data-Analysis-EDA-/blob/main/07_churn_by_contract.png)
+![Churn by contract](https://github.com/kaursamanpreet970-pixel/Telecom-Customer-Churn-Exploratory-Data-Analysis-EDA-/blob/main/07_churn_by_contract.png)
 
 ---
 
@@ -256,7 +256,7 @@ The grid below compares churn across 12 service and billing features. What stand
 - Customers **without Online Security, Tech Support, Online Backup or Device Protection** churn much more than those who have these add-ons. These services seem to help retention.
 - **Phone service** and **multiple lines** show little difference in churn, so they are weak predictors.
 
-![Service and billing features](Telecom-Customer-Churn-Exploratory-Data-Analysis-EDA-/blob/main/08_service_features_grid.png)
+![Service and billing features](https://github.com/kaursamanpreet970-pixel/Telecom-Customer-Churn-Exploratory-Data-Analysis-EDA-/blob/main/08_service_features_grid.png)
 
 ---
 
@@ -271,7 +271,7 @@ The grid below compares churn across 12 service and billing features. What stand
 
 Customers on automatic payments seem more likely to stay.
 
-![Churn by payment method](Telecom-Customer-Churn-Exploratory-Data-Analysis-EDA-/blob/main/09_churn_by_payment_method.png)
+![Churn by payment method](https://github.com/kaursamanpreet970-pixel/Telecom-Customer-Churn-Exploratory-Data-Analysis-EDA-/blob/main/09_churn_by_payment_method.png)
 
 ---
 
@@ -281,8 +281,8 @@ This is an EDA project, so the output is a fully documented notebook with **9 da
 
 | Output | File |
 |--------|------|
-| Complete analysis notebook (code, charts and insights) | [`telecom_eda.ipynb`](Telecom-Customer-Churn-Exploratory-Data-Analysis-EDA-/blob/main/telecom_eda.ipynb) |
-| PDF export of the notebook (easy to read and share) | [`telecom_churn_eda.pdf`](Telecom-Customer-Churn-Exploratory-Data-Analysis-EDA-/blob/main/telecom_churn_eda.pdf) |
+| Complete analysis notebook (code, charts and insights) | [`telecom_eda.ipynb`](https://github.com/kaursamanpreet970-pixel/Telecom-Customer-Churn-Exploratory-Data-Analysis-EDA-/blob/main/telecom_eda.ipynb) |
+| PDF export of the notebook (easy to read and share) | [`telecom_churn_eda.pdf`](https://github.com/kaursamanpreet970-pixel/Telecom-Customer-Churn-Exploratory-Data-Analysis-EDA-/blob/main/telecom_churn_eda.pdf) |
 
 
 ## 9. Results & Conclusion
@@ -317,8 +317,7 @@ Senior citizens are also at higher risk, while gender makes no real difference.
 
 | Platform | Link |
 |----------|------|
-| 💼 LinkedIn | [Samanpreet Kaur on LinkedIn](www.linkedin.com/in/kaursamanpreet) |
-| 📧 Email | [YOUR-EMAIL@example.com](mailto:kaursamanpreet970@gmail.com) |
-| 🐙 GitHub | [github.com/kaursamanpreet970-pixel](kaursamanpreet970-pixel) |
+| 💼 LinkedIn | [Samanpreet Kaur on LinkedIn](https://www.linkedin.com/in/kaursamanpreet/) |
+| 🐙 GitHub | [github.com/kaursamanpreet970-pixel](https://github.com/kaursamanpreet970-pixel) |
 
 ⭐ If you found this project useful, please consider giving the repository a star!
