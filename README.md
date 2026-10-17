@@ -202,7 +202,7 @@ Each chart below answers one business question. See the next section for the cha
 
 Of 7,043 customers, **1,869 churned and 5,174 stayed**, a churn rate of **26.54%**. The dataset is imbalanced, with far more retained customers than churned ones.
 
-![Churn count](Telecom-Customer-Churn-Exploratory-Data-Analysis-EDA-/blob/main/01_churn_count.png)
+![Churn count](https://github.com/kaursamanpreet970-pixel/Telecom-Customer-Churn-Exploratory-Data-Analysis-EDA-/blob/main/01_churn_count.png)
 
 ![Churn rate pie chart](Telecom-Customer-Churn-Exploratory-Data-Analysis-EDA-/blob/main/02_churn_pie.png)
 
